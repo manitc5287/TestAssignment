@@ -1,0 +1,78 @@
+.home__banner {
+    background-image: url("../../assets/img/imageedit_3_4246449195.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover; /* optional: adjust to your needs */
+    text-align: center;
+    height: 60vh;
+}
+
+.banner__image img{
+    border-radius: 10px;
+}
+
+.search__result{
+margin-top: 100px;
+}
+
+.home__banner {
+    background-color: #f8f9fa;
+    padding: 50px 0;
+}
+
+.banner__image {
+    text-align: center;
+}
+
+.banner__image img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+}
+
+.content {
+    padding: 20px;
+}
+
+.content small {
+    color: #888;
+}
+
+.content h2 {
+    color: #333;
+    font-size: 28px;
+   
+}
+
+.content input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 16px;
+   
+}
+
+.slick-prev,
+.slick-next {
+    font-size: 24px;
+    color: #888;
+    z-index: 1;
+}
+
+.slick-prev:hover,
+.slick-next:hover {
+    color: #333;
+}
+
+.slick-dots li button:before {
+    font-size: 12px;
+    color: #888;
+}
+
+.slick-dots li.slick-active button:before {
+    color: #333;
+}
+
+
